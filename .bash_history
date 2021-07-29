@@ -91,3 +91,29 @@ clear
 sudo service jenkins start
 clear
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+clear
+git init
+ls -al
+cd .git
+ls -al
+cat branches
+vi main.tf
+git status
+cd ..
+git status
+git commit -m 'initial commit'
+git add
+git add .
+git status
+git commit -m 'initial commit'
+clear
+git staus'
+git status
+git push origin https://github.com/Vedant-97/vedantjengit.git
+git push origin
+git push --set-upstream origin main
+git push --origin main
+git remote add origin https://github.com/Vedant-97/vedantjengit.git
+git push origin main
+git push origin master
+git status
